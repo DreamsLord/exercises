@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// Stworz program liczacy wybrany element ciagu arytmetycznego
 public class zad4 {
 
 	public static void main(String[] args) {
@@ -15,11 +15,11 @@ public class zad4 {
 		int a1 = 1; // pierwszy wyraz ciagu
 		int q = 2;// wartosc iloczynu
 
-		System.out.println("Podaj numer elementu ci¹gu");
+		System.out.println("Podaj numer elementu ciÂ¹gu");
 		n = in.nextInt();
-		System.out.println("Podaj pierwszy wyraz Ci¹gu");
+		System.out.println("Podaj pierwszy wyraz CiÂ¹gu");
 		a1 = in.nextInt();
-		System.out.println("Podaj wartoœæ iloczynu");
+		System.out.println("Podaj wartoÅ“Ã¦ iloczynu");
 		q = in.nextInt();
 
 		int wynik;
@@ -29,7 +29,7 @@ public class zad4 {
 			wynik = wynik * q;
 
 		}
-		System.out.println("Poszukiwana wartoœæ to"+ wynik);
+		System.out.println("Poszukiwana wartoÅ“Ã¦ to"+ wynik);
 
 	}
 }
