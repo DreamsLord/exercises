@@ -1,5 +1,7 @@
 package cwiczenia;
-
+// stworz program ktory bedzie zwracal napisana slownie liczbe do 30.
+// najpierw napisalem program ktory tworzy taka liste( mógłby do 100 tym sposobem a pozniej 1000 i wiecej).
+// nastepnie jest sam program
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
